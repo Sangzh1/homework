@@ -132,8 +132,7 @@ let num_1 = +prompt ("ixtiyoriy sonni kiriting..");
 
 // 7-masal
 
-
- let num__1 =+prompt("son");
+ let num__1 =+prompt("sonni kiriting..");
 let num__2=0
  for(let i=1; i<=number1; i++) {
    num__2=num__2+i
